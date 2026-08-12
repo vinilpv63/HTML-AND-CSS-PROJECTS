@@ -1,0 +1,23 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    padding: 40px;
+}
+
+h1 {
+    font-weight: 700;
+}
+
+p {
+    font-size: 18px;
+}
+
+img {
+    width: 400px;
+    border-radius: 10px;
+    transition: transform 0.3s ease;
+}
+
+img:hover {
+    transform: scale(1.1) rotate(3deg);
+}/* CSS Effects Challenge */
